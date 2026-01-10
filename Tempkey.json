@@ -173,5 +173,5 @@
     "password": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
-  },
+  }
 ]
