@@ -3,7 +3,7 @@
     "id": "6c692e12db4b6c82",
     "username": "123",
     "password": "123",
-    "expiresAt": "2041-01-09",
+    "expiresAt": "2011-01-09",
     "allowOffline": true
   },
   {
@@ -49,11 +49,11 @@
     "allowOffline": true
   },
   {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
+    "id": "6c692e12db4b6c82",
+    "username": "123",
+    "password": "123",
+    "expiresAt": "2045-11-30",
+    "allowOffline": true
   },
   {
     "id": "android_device_id_2",
