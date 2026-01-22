@@ -241,8 +241,8 @@
     "id": "bd32c446364f0fe5",
     "username": "lordjohn",
     "password": "232506",
-    "expiresAt": "2026-01-20",
-    "allowOffline": false
+    "expiresAt": "2027-01-22",
+    "allowOffline": true
   },
   {
     "id": "b1e35537318b5465",
