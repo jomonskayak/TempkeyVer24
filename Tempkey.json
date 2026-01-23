@@ -332,8 +332,8 @@
     "id": "922bbf599dfd9d6f",
     "username": "Lhan",
     "password": "123",
-    "expiresAt": "2027-01-24",
-    "allowOffline": true
+    "expiresAt": "2027-01-21",
+    "allowOffline": false
   },
   {
     "id": "2ce6aff3ab35db16",
