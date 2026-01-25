@@ -392,11 +392,11 @@
     "allowOffline": true
   },
   {
-    "id": "c54175b9866ddbf7",
-    "username": "Leahcim",
+    "id": "",
+    "username": "",
     "password": "123",
     "expiresAt": "2027-01-30",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "QWERT",
