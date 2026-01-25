@@ -367,8 +367,8 @@
     "id": "e6bded69b6753ad1",
     "username": "Jake",
     "password": "123",
-    "expiresAt": "2027-01-24",
-    "allowOffline": true
+    "expiresAt": "2026-01-24",
+    "allowOffline": false
   },
   {
     "id": "0202ade268c455e4",
