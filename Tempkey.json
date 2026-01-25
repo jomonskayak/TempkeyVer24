@@ -392,11 +392,11 @@
     "allowOffline": true
   },
   {
-    "id": "",
-    "username": "",
-    "password": "123",
+    "id": "b44deed9a37f500c",
+    "username": "Michaelraro",
+    "password": "1234",
     "expiresAt": "2027-01-30",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "QWERT",
