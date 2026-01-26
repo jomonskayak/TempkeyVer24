@@ -402,8 +402,8 @@
     "id": "96c8cd1d308bdea4",
     "username": "Benjie",
     "password": "123",
-    "expiresAt": "2027-01-25",
-    "allowOffline": true
+    "expiresAt": "2026-01-25",
+    "allowOffline": false
   },
   {
     "id": "5bfa56952c0d5f3b",
