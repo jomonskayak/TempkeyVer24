@@ -403,14 +403,14 @@
     "username": "Benjie",
     "password": "123",
     "expiresAt": "2026-01-25",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "5bfa56952c0d5f3b",
     "username": "Ronie",
     "password": "123",
     "expiresAt": "2026-01-25",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "7f8f5af022b82dee",
