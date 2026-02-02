@@ -787,8 +787,8 @@
     "id": "38e8b88017529724",
     "username": "38e8b88017529724",
     "password": "123",
-    "expiresAt": "2041-01-30",
-    "allowOffline": true
+    "expiresAt": "2026-02-01",
+    "allowOffline": false
   },
   {
     "id": "4840925172f9b161",
